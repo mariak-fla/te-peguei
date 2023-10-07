@@ -1,0 +1,522 @@
+[
+    {
+        "text": "Faça um jogador perguntar se vc está chorando",
+        "icon": "Frown"
+    },
+    {
+        "text": "Confeccione algo e faça um jogador vesti-lo",
+        "icon": "PencilRuler"
+    },
+    {
+        "text": "Convença alguém a inventar uma teoria da conspiração absurda",
+        "icon": "Radiation"
+    },
+    {
+        "text": "Faça alguém admitir um crime",
+        "icon": "ShieldAlert"
+    },
+    {
+        "text": "Faça um jogador dizer 'você não é feio'",
+        "icon": "SmilePlus"
+    },
+    {
+        "text": "Convença um jogador a lhe oferecer um lanche imaginário ",
+        "icon": "CakeSlice"
+    },
+    {
+        "text": "Faça alguém discursar sobre sua coleção de meias",
+        "icon": "ShoppingBag"
+    },
+    {
+        "text": "Pegue um objeto e fale que ele cheira estranho. faça um jogador cheirá-lo",
+        "icon": "SquareAsterisk"
+    },
+    {
+        "text": "Faça um jogador tentar curar seu soluço",
+        "icon": "SmilePlus"
+    },
+    {
+        "text": "Faça um jogador ler uma frase de um livro",
+        "icon": "BookMarked"
+    },
+    {
+        "text": "Faça alguém explicar como seria o seu super-herói se ele fosse baseado em um legume",
+        "icon": "VenetianMask"
+    },
+    {
+        "text": "Faça um jogador inventar uma canção sobre um objeto inanimado à escolha",
+        "icon": "SquareAsterisk"
+    },
+    {
+        "text": "Convença alguém a te contar uma história sobre o dia em que viram um unicórnio na rua",
+        "icon": "Sparkles"
+    },
+    {
+        "text": "Faça um jogador escrever algo em outra lingua",
+        "icon": "Languages"
+    },
+    {
+        "text": "Faça um jogador fingir que esqueceu o próprio nome e pedir sugestões para um novo",
+        "icon": "ClipboardList"
+    },
+    {
+        "text": "Diga que está chovendo e faça um jogador olhar pela janela",
+        "icon": "CloudRain"
+    },
+    {
+        "text": "Faça alguém elogiar uma cadeira como se ela fosse a cadeira mais confortável do mundo",
+        "icon": "Armchair"
+    },
+    {
+        "text": "Faça um jogador elogiar o capitalismo",
+        "icon": "CircleDollarSign"
+    },
+    {
+        "text": "Escreva algo num pedaço de papel e coloque no bolso de algum jogador sem que ele perceba",
+        "icon": "PenSquare"
+    },
+    {
+        "text": "Convença alguem a entrar num banheiro com você",
+        "icon": "SquareDashedBottom"
+    },
+    {
+        "text": "Faça um jogador elogiar o seu cabelo",
+        "icon": "SmilePlus"
+    },
+    {
+        "text": "Sente no chão por um tempo e faça um jogador te ajudar a levantar",
+        "icon": "HelpingHand"
+    },
+    {
+        "text": "Desenhe algo na pele de um jogador sem que vc seja percebido",
+        "icon": "PencilLine"
+    },
+    {
+        "text": "Tire uma selfie com um jogador usando o celular dele",
+        "icon": "Camera"
+    },
+    {
+        "text": "Faça um jogador dar pelo menos dois beijos em algo que não é humano",
+        "icon": "SquareAsterisk"
+    },
+    {
+        "text": "Faça um jogador procurar no google por uma palavra que não existe",
+        "icon": "Search"
+    },
+    {
+        "text": "Faça um jogador dizer o seu nome completo",
+        "icon": "WholeWord"
+    },
+    {
+        "text": "Faça um jogador acreditar que vocês estão formando uma dupla para uma competição de karaokê",
+        "icon": "Mic2"
+    },
+    {
+        "text": "Faça alguem te ajudar a criar um 'slogan' para um produto fictício",
+        "icon": "PencilRuler"
+    },
+    {
+        "text": "Convença alguém a fazer uma cantada a um objeto aleatório",
+        "icon": "SquareAsterisk"
+    },
+    {
+        "text": "Convença um jogador desavisado que voce estava conversando sobre ele e faça ele perguntar o que era",
+        "icon": "HelpCircle"
+    },
+    {
+        "text": "Faça um jogador te contar sobre a última coisa vergonhosa que fez",
+        "icon": "Annoyed"
+    },
+    {
+        "text": "Faça um jogador falar sobre o lugar mais estranho onde já dormiu",
+        "icon": "HelpCircle"
+    },
+    {
+        "text": "Faça um jogador contar uma piada",
+        "icon": "Laugh"
+    },
+    {
+        "text": "Faça um jogador deitar no chão ao seu lado",
+        "icon": "HelpingHand"
+    },
+    {
+        "text": "Faça um jogador virar cara ou coroa (a moeda deve cair em cara)",
+        "icon": "CircleDollarSign"
+    },
+    {
+        "text": "Faça um jogador fazer cócegas em você",
+        "icon": "Laugh"
+    },
+    {
+        "text": "Desafie alguém para um duelo de equilíbrio com um item na testa",
+        "icon": "ArrowUpToLine"
+    },
+    {
+        "text": "Peça a um jogador para mostrar uma cicatriz ou uma tatuagem que ele tenha",
+        "icon": "HelpCircle"
+    },
+    {
+        "text": "Faça um jogador discordar de você sobre a cor de algo",
+        "icon": "Palette"
+    },
+    {
+        "text": "Faça um jogador fingir que é um especialista em danças folclóricas de um país qualquer",
+        "icon": "PersonStanding"
+    },
+    {
+        "text": "Faça um jogador fazer uma pose de yoga inventada",
+        "icon": "PersonStanding"
+    },
+    {
+        "text": "Cante uma música com alguém e erre a letra. Faça outro jogador comentar",
+        "icon": "Mic2"
+    },
+    {
+        "text": "Diga a um jogador que voce é um consultor de etiqueta para realidades paralelas",
+        "icon": "Sparkles"
+    },
+    {
+        "text": "Faça um jogador criar um rap sobre uma planta à sua escolha",
+        "icon": "Mic2"
+    },
+    {
+        "text": "Entreviste em público um objeto como se ele fosse uma celebridade",
+        "icon": "SquareAsterisk"
+    },
+    {
+        "text": "Faça um jogador dar conselhos sobre como se tornar um peixe",
+        "icon": "Fish"
+    },
+    {
+        "text": "Faça um jogador dizer 'você está bêbado'",
+        "icon": "Wine"
+    },
+    {
+        "text": "Desafie um jogador a fazer uma entrevista de emprego com espíritos. o jogador deve aceitar",
+        "icon": "Sparkles"
+    },
+    {
+        "text": "Prometa algo a outro jogador e faça ele comentar quando voce quebrar a promessa",
+        "icon": "HelpCircle"
+    },
+    {
+        "text": "Faça outro jogador arrotar",
+        "icon": "Annoyed"
+    },
+    {
+        "text": "Pegue emprestado a mesma coisa de outro jogador três vezes",
+        "icon": "KeyRound"
+    },
+    {
+        "text": "Faça um jogador dizer 'você está errado'",
+        "icon": "ShieldAlert"
+    },
+    {
+        "text": "Finja estar ouvindo um barulho não-existente e faça um jogador concordar que ele consegue ouvir também",
+        "icon": "Ear"
+    },
+    {
+        "text": "Faça um jogador dizer 'eu te amo'",
+        "icon": "Heart"
+    },
+    {
+        "text": "Convença um jogador de que algo é ativado por voz e faça ele tentar ativá-lo",
+        "icon": "Volume2"
+    },
+    {
+        "text": "Fale uma frase errada de um filme e faça com que outro jogador te corrija",
+        "icon": "Clapperboard"
+    },
+    {
+        "text": "Convença outro jogador a assinar algo",
+        "icon": "PenLine"
+    },
+    {
+        "text": "Começe a falar em rimas e faça com que outro jogador tente também",
+        "icon": "Users2"
+    },
+    {
+        "text": "Invente uma palavra e faça alguém perguntar o que ela significa",
+        "icon": "Languages"
+    },
+    {
+        "text": "Faça alguem dançar igual um robô",
+        "icon": "Bot"
+    },
+    {
+        "text": "Faça alguem olhar para o teto três vezes",
+        "icon": "ArrowUpWideNarrow"
+    },
+    {
+        "text": "Faça um jogador dizer 'saúde' duas vezes",
+        "icon": "ShieldAlert"
+    },
+    {
+        "text": "Deixe um objeto cair no chão e faça alguem te ajudar a pegá-lo",
+        "icon": "HelpingHand"
+    },
+    {
+        "text": "Faça um jogador checar a previsão do tempo",
+        "icon": "CloudSun"
+    },
+    {
+        "text": "Envie uma mensagem de texto para um jogador dizendo 'ogueq vvoetce?'. Se ele responder mostre esse prompt para ele",
+        "icon": "WholeWord"
+    },
+    {
+        "text": "Finja estar dormindo e faça com que outro jogador tente te acordar",
+        "icon": "Bed"
+    },
+    {
+        "text": "Convença alguem a fazer um drink para você",
+        "icon": "Wine"
+    },
+    {
+        "text": "Troque um item de lugar sem que ninguem perceba e faça com que outro jogador comente sobre",
+        "icon": "Shapes"
+    },
+    {
+        "text": "Faça com que um jogador fique imóvel como uma estátua por 30 segundos",
+        "icon": "Timer"
+    },
+    {
+        "text": "Faça alguem te dar um elogio muito específico",
+        "icon": "SmilePlus"
+    },
+    {
+        "text": "Convença alguem a cantar uma música em outra lingua",
+        "icon": "Languages"
+    },
+    {
+        "text": "Faça um jogador dizer que você está chapado",
+        "icon": "Sparkles"
+    },
+    {
+        "text": "Jogue pedra papel e tesoura com outro jogador até você vencer",
+        "icon": "Dices"
+    },
+    {
+        "text": "Faça alguém sentar no seu colo",
+        "icon": "HelpingHand"
+    },
+    {
+        "text": "Faça um jogador te abraçar",
+        "icon": "HelpingHand"
+    },
+    {
+        "text": "Faça um jogador discordar de você sobre quem ganhou um jogo",
+        "icon": "Dices"
+    },
+    {
+        "text": "Faça um jogador dizer 'guardanapo roxo da noruega'",
+        "icon": "WholeWord"
+    },
+    {
+        "text": "Pergunte a um jogador que horas são. O jogador deve se negar a responder",
+        "icon": "Clock"
+    },
+    {
+        "text": "Finja que você está jogando outro jogo e faça com que alguem peça para jogar também",
+        "icon": "Dices"
+    },
+    {
+        "text": "perca a rodada de algum jogo de forma estúpida e faça alguem comentar sobre isso",
+        "icon": "Dices"
+    },
+    {
+        "text": "Faça alguem comentar sobre a cor do cabelo do neymar",
+        "icon": "Palette"
+    },
+    {
+        "text": "Faça um jogador coçar seu próprio corpo",
+        "icon": "User2"
+    },
+    {
+        "text": "Escreva um recado em um papel e coloque em um pote ou recipiente. faça um jogador encontrá-lo",
+        "icon": "PenSquare"
+    },
+    {
+        "text": "Convença um jogador de que está indo embora e faça ele dar tchau",
+        "icon": "Hand"
+    },
+    {
+        "text": "Faça alguem falar sobre a bolsa de cocô do bolsonaro",
+        "icon": "Speech"
+    },
+    {
+        "text": "Faça alguem imitar o lula",
+        "icon": "Speech"
+    },
+    {
+        "text": "Erre a data de aniversário de alguém e faça a pessoa te corrigir",
+        "icon": "Cake"
+    },
+    {
+        "text": "Faça alguem discutir com você em qual a direção está o norte",
+        "icon": "Compass"
+    },
+    {
+        "text": "Faça alguem dizer que você está mentindo",
+        "icon": "Angry"
+    },
+    {
+        "text": "Erre a letra de uma música e faça alguem te corrigir",
+        "icon": "Music"
+    },
+    {
+        "text": "Aponte para algum lugar e faça um jogador olhar. repita isso três vezes no decorrer do dia",
+        "icon": "Pointer"
+    },
+    {
+        "text": "Convença um jogador que o kojima participou da criação de algum jogo e faça-o conferir na internet",
+        "icon": "Search"
+    },
+    {
+        "text": "Faça um jogador te dar conselhos médicos",
+        "icon": "HeartPulse"
+    },
+    {
+        "text": "Faça um jogador tomar um gole do seu drink",
+        "icon": "Wine"
+    },
+    {
+        "text": "Convença um jogador de que tem um inseto no corpo dele. faça ele tentar se livrar do bicho",
+        "icon": "Bug"
+    },
+    {
+        "text": "Faça um jogador te dar um remédio para dor de cabeça",
+        "icon": "Pill"
+    },
+    {
+        "text": "Faça um jogador falar a palavra 'tijolo' em holandês",
+        "icon": "Languages"
+    },
+    {
+        "text": "Faça um jogador se alongar",
+        "icon": "PersonStanding"
+    },
+    {
+        "text": "Faça alguém vestir uma peça de roupa sua",
+        "icon": "Shirt"
+    },
+    {
+        "text": "Faça com que um jogador crie uma música sobre a última coisa que comeu",
+        "icon": "Mic2"
+    },
+    {
+        "text": "fale algo com a voz bem baixa. se um jogador perguntar 'o que?' mostre esse prompt para ele",
+        "icon": "Ear"
+    },
+    {
+        "text": "Faça um jogador dançar com você",
+        "icon": "Disc3"
+    },
+    {
+        "text": "Faça um jogador imitar um animal de forma convincente",
+        "icon": "Cat"
+    },
+    {
+        "text": "Faça alguem comentar sobre uma invasão de pombos",
+        "icon": "Bird"
+    },
+    {
+        "text": "escreva 'escrevi e sai correndo pau no cu de quem ta lendo'. Faça um jogador ler em voz alta",
+        "icon": "PenSquare"
+    },
+    {
+        "text": "Faça um jogador te dar uma toalha ou um pano",
+        "icon": "SquareDashedBottom"
+    },
+    {
+        "text": "Faça um jogador ler esse prompt em voz alta",
+        "icon": "BookOpen"
+    },
+    {
+        "text": "Convença um jogador que ele pisou em algo sujo e faça-o checar a sola do sapato",
+        "icon": "Footprints"
+    },
+    {    
+        "text": "Escreva em um papel 'você foi envenenado' e coloque embaixo do drink de um jogador",
+        "icon": "PenSquare"
+    },
+    {
+        "text": "Cante errado a letra de alguma música e faça com que um jogador te corrija",
+        "icon": "Mic2"
+    },
+    {
+        "text": "Faça um jogador falar a palavra 'iridescente'",
+        "icon": "WholeWord"
+    },
+    {
+        "text": "Faça um jogador citar um frase de uma série de tv",
+        "icon": "Clapperboard"
+    },
+    {
+        "text": "Convença um jogador a tentar lamber a ponta do próprio nariz",
+        "icon": "Laugh"
+    },
+    {
+        "text": "Faça um jogador fazer 'quack'",
+        "icon": "WholeWord"
+    },
+    {
+        "text": "Faça um jogador fazer uma imitação sua",
+        "icon": "Users2"
+    },
+    {
+        "text": "Ande de forma engraçada e faça um jogador tentar andar também",
+        "icon": "Users2"
+    },
+    {
+        "text": "Descreva uma música como se você tivesse esquecido e faça um jogador falar o nome dela",
+        "icon": "Music"
+    },
+    {
+        "text": "Misture uma metáfora com outra e faça um jogador te corrigir",
+        "icon": "Speech"
+    },
+    {
+        "text": "Faça um jogador corrigir sua pronúncia de alguma frase",
+        "icon": "Speech"
+    },
+    {
+        "text": "Faça um jogador falar 'game over'",
+        "icon": "WholeWord"
+    },
+    {
+        "text": "Fale o dia da semana errado e faça um jogador corrigir",
+        "icon": "CalendarDays"
+    },
+    {
+        "text": "Faça um jogador dizer que sente falta do Olavo de Carvalho",
+        "icon": "Skull"
+    },
+    {
+        "text": "Faça um jogador falar que é redpill", 
+        "icon": "Pill"
+    },
+    {
+        "text": "Faça um jogador imitar o Mario Sergio Cortella", 
+        "icon": "Speech"
+    },
+    {
+        "text": "Faça um jogador falar que o Ednaldo Pereira tem poderes psíquicos", 
+        "icon": "Sparkles"
+    },
+    {
+        "text": "Faça um jogador falar que gosta de arremesso de anão", 
+        "icon": "Speech"
+    },
+    {
+        "text": "Faça um jogador falar o nome completo do Walter White", 
+        "icon": "Speech"
+    },
+    {
+        "text": "Convença outro jogador que o Nathan Fielder está por trás da produção de algum programa. faça o jogador checar na internet", 
+        "icon": "Search"
+    },
+    {
+        "text": "Peça a um jogador que acenda ou apague a luz. o jogador deve cumprir seu pedido", 
+        "icon": "Sparkles"
+    }
+]
